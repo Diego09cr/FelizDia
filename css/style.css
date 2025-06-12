@@ -59,7 +59,7 @@ header h2 {
     margin: auto;
     overflow: hidden;
     border-radius: 20px;
-    box-shadow: 0 8px 12px rgba(0,0,0,0.3);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
     background-color: #fff;
 }
 
